@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "623336400723",
+    "project_id": "laravel-notification-3d7e6",
+    "storage_bucket": "laravel-notification-3d7e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623336400723:android:e89705e059cf53753a23a6",
+        "android_client_info": {
+          "package_name": "com.example.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623336400723-a3htg6anpa8rc7dij6uu4pgacmt0isup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf-IyjJyDIXdjxeXSshJFmRJgsQtfcvDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623336400723-a3htg6anpa8rc7dij6uu4pgacmt0isup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
